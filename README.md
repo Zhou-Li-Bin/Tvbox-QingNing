@@ -55,6 +55,8 @@ https://bz.zzzmh.cn/index
 https://pic.netbian.com/
 ```
 
+![image](/img/pic02.png)
+
 ## 6. 关于我们
 >公众号：青柠软件馆，公众号发布的资源全部都是免费分享交流
 
