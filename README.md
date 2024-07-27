@@ -45,6 +45,16 @@ https://gh.nxnow.top/
 
 ![image](/img/pic01.png)
 
+## 6. 精美壁纸网站
+>想给盒子软件换张唯美好看的背景壁纸？看下面几个网站就对了
+
+```
+https://snake.timeline.ink/trending
+https://wallpaper.youtd.cc/
+https://bz.zzzmh.cn/index
+https://pic.netbian.com/
+```
+
 ## 6. 关于我们
 >公众号：青柠软件馆，公众号发布的资源全部都是免费分享交流
 
