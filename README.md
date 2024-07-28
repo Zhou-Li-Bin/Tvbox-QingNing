@@ -16,7 +16,7 @@
 >**地址**：https://ocndh5bpm3d7.feishu.cn/wiki/Je4dw4E4TidwOSkpXw6chyg1nBh
 
 
-![image](/image/introduce.png)
+![image](/image/pic01.png)
 
 ## 3. 防迷路地址发布页
 >**地址**：https://d6xdcvh1b6.feishu.cn/docx/QluNdMUaLox8Pwxopd3chx6UnZb
