@@ -16,7 +16,7 @@
 >**地址**：https://ocndh5bpm3d7.feishu.cn/wiki/Je4dw4E4TidwOSkpXw6chyg1nBh
 
 
-![image](/img/introduce.png)
+![image](/image/introduce.png)
 
 ## 3. 防迷路地址发布页
 >**地址**：https://d6xdcvh1b6.feishu.cn/docx/QluNdMUaLox8Pwxopd3chx6UnZb
@@ -44,7 +44,7 @@ http://www.subook.link:88/
 https://gh.nxnow.top/
 ```
 
-![image](/img/pic01.png)
+![image](/image/pic01.png)
 
 ## 6. 缩短链接网址
 >显示接口访问数据，包含用户访问量、访问机型、地理分布、浏览器等数据一应俱全，精准分析你的接口用户
@@ -65,7 +65,7 @@ https://bz.zzzmh.cn/index
 https://pic.netbian.com/
 ```
 
-![image](/img/pic02.png)
+![image](/image/pic02.png)
 
 ## 8. 关于我们
 >公众号：青柠软件馆，公众号发布的资源全部都是免费分享交流
