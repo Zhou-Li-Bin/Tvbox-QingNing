@@ -63,3 +63,7 @@ https://pic.netbian.com/
 ## 8. 使用需知
 >所有资源全部搜集于网络，各位有优质的直播源或接口，可以私我，我会一并加入文档中~ 如有侵权，请联系我删除~
 >如果觉得对你有帮助的话，宝子们可否点个𝐬𝐭𝐚𝐫?
+
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=CatBoxs/Cat_tv&type=Date)](https://star-history.com/#CatBoxs/Cat_tv&Date)
