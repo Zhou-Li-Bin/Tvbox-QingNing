@@ -44,7 +44,7 @@ http://www.subook.link:88/
 https://gh.nxnow.top/
 ```
 
-![image](/image/pic01.png)
+![image](/image/pic03.png)
 
 ## 6. 缩短链接网址
 >显示接口访问数据，包含用户访问量、访问机型、地理分布、浏览器等数据一应俱全，精准分析你的接口用户
