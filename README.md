@@ -13,7 +13,7 @@
 >
 >* **地址**：[**𝐖𝐚𝐭𝐭𝐓𝐨𝐨𝐥𝐤𝐢𝐭原名𝐒𝐭𝐞𝐚𝐦++**](https://github.com/BeyondDimension/SteamTools "加速访问开源项目")
 
-## 2. 接口分享地址
+## 2. 接口分享合集地址
 
 >* **地址**： [**https://ocndh5bpm3d7.feishu.cn/wiki/Je4dw4E4TidwOSkpXw6chyg1nBh**](https://ocndh5bpm3d7.feishu.cn/wiki/Je4dw4E4TidwOSkpXw6chyg1nBh "接口分享地址持续更新")
 
