@@ -4,19 +4,14 @@
 >
 >🧊 两个实用的𝐆𝐢𝐭𝐡𝐮𝐛脚本
 >
->👉 𝐆𝐢𝐭𝐡𝐮𝐛增强 - 高速下载
+>* **地址**：[𝐆𝐢𝐭𝐡𝐮𝐛增强 - 高速下载](https://greasyfork.org/zh-CN/scripts/412245 "𝐆𝐢𝐭𝐡𝐮𝐛增强-高速下载脚本")
 >
->* **地址**：https://greasyfork.org/zh-CN/scripts/412245
 >
->👉 中文化 𝐆𝐢𝐭𝐡𝐮𝐛 界面的部分菜单及内容高速下载
->
->* **地址**：https://greasyfork.org/zh-CN/scripts/435208
+>* **地址**：[𝐆𝐢𝐭𝐡𝐮𝐛中文化界面的部分菜单及内容高速下载](https://greasyfork.org/zh-CN/scripts/435208 "中文化𝐆𝐢𝐭𝐡𝐮𝐛界面的脚本")。
 >
 >🧊 𝐆𝐢𝐭𝐡𝐮𝐛加速访问开源项目
 >
->👉 Watt Toolkit原名Steam++
->
->* **地址**：https://github.com/BeyondDimension/SteamTools
+>* **地址**：[𝐖𝐚𝐭𝐭𝐓𝐨𝐨𝐥𝐤𝐢𝐭原名𝐒𝐭𝐞𝐚𝐦++](https://github.com/BeyondDimension/SteamTools "𝐆𝐢𝐭𝐡𝐮𝐛加速访问开源项目")
 
 ## 2. 接口分享地址
 
