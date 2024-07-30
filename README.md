@@ -8,7 +8,7 @@
 [![GitHub Pull Requests](https://img.shields.io/github/stars/Zhou-Li-Bin/Tvbox-QingNing?logo=Undertale)](https://github.com/Zhou-Li-Bin/Tvbox-QingNing/stargazers)
 [![HitCount](https://views.whatilearened.today/views/github/Zhou-Li-Bin/Tvbox-QingNing.svg)](https://github.com/Zhou-Li-Bin/Tvbox-QingNing)
 
-<p>🍋 优质接口 · 直播源 · 相关软件搜集分享 🍋</p>
+<p>🍋 优质接口 · 直播源 · 相关软件网站的搜集分享 🍋</p>
 
 
 <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="100%"  height="3">
