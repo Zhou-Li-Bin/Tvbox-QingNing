@@ -1,6 +1,5 @@
-本项目致力于收集整理优秀的接口以及一些优质稳定的直播源的搜集整理。
-![image](https://camo.githubusercontent.com/4dc0fe2eed91de66e49f7cbf4ea75d6e376dad47c228653dc447f322411dfb23/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f657279616a662f7475406d61696e2f696d672f696d6167655f32303234303432305f3231343430382e676966)
 ## 1. 写在前面
+>本项目致力于收集整理优秀的接口以及一些优质稳定的直播源的搜集整理。
 >🧊 两个实用的𝐆𝐢𝐭𝐡𝐮𝐛脚本
 >
 >* **地址**：[**𝐆𝐢𝐭𝐡𝐮𝐛增强 - 高速下载**](https://greasyfork.org/zh-CN/scripts/412245 "𝐆𝐢𝐭𝐡𝐮𝐛增强 - 高速下载")
@@ -11,6 +10,10 @@
 >🧊 𝐆𝐢𝐭𝐡𝐮𝐛加速访问开源项目
 >
 >* **地址**：[**𝐖𝐚𝐭𝐭𝐓𝐨𝐨𝐥𝐤𝐢𝐭原名𝐒𝐭𝐞𝐚𝐦++**](https://github.com/BeyondDimension/SteamTools "加速访问开源项目")
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="100%"  height="3">
+</div>
 
 ## 2. 接口分享合集地址
 
