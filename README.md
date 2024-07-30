@@ -1,5 +1,22 @@
+<div align="center">
+<h1>Tvbox QingNing</h1>
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Auth](https://img.shields.io/badge/Auth-zhoulibin-ff69b4)](https://github.com/Zhou-Li-Bin)
+[![公众号](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E9%9D%92%E6%9F%A0%E8%BD%AF%E4%BB%B6%E9%A6%86-71f9fe?logo=WeChat)](https://mp.weixin.qq.com/s/FwqI_w2geWE4aOqKAILfhQ)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Zhou-Li-Bin/Tvbox-QingNing)](https://github.com/Zhou-Li-Bin/Tvbox-QingNing/pulls)
+[![GitHub Pull Requests](https://img.shields.io/github/stars/Zhou-Li-Bin/Tvbox-QingNing?logo=Undertale)](https://github.com/Zhou-Li-Bin/Tvbox-QingNing/stargazers)
+[![HitCount](https://views.whatilearened.today/views/github/Zhou-Li-Bin/Tvbox-QingNing.svg)](https://github.com/Zhou-Li-Bin/Tvbox-QingNing)
+
+<p>🍋 优质接口&直播源&相关软件搜集分享 🍋</p>
+
+
+<img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="100%"  height="3">
+</div>
+
+
 ## 1. 写在前面
->本项目致力于收集整理优秀的接口以及一些优质稳定的直播源的搜集整理
+>本项目致力于收集整理优秀的接口以及一些优质稳定的直播源和相关好用软件的搜集整理
 >
 >🧊 两个实用的𝐆𝐢𝐭𝐡𝐮𝐛脚本
 >
@@ -11,10 +28,6 @@
 >🧊 𝐆𝐢𝐭𝐡𝐮𝐛加速访问开源项目
 >
 >* **地址**：[**𝐖𝐚𝐭𝐭𝐓𝐨𝐨𝐥𝐤𝐢𝐭原名𝐒𝐭𝐞𝐚𝐦++**](https://github.com/BeyondDimension/SteamTools "加速访问开源项目")
-
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="100%"  height="3">
-</div>
 
 ## 2. 接口分享合集地址
 
