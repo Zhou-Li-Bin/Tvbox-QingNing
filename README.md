@@ -82,9 +82,13 @@
 
 ## 𝟬𝟲. 随机壁纸获取
 >自己做的接口需要具备获取随机壁纸的api，用户通过调用该接口获取随机壁纸，作为影视仓或𝐭𝐯𝐛𝐨𝐱软件的背景
+>
 >* **地址**：[**随机动漫风美女系列背景获取**](https://pictures.catvod.eu.org/ "推荐：https://pictures.catvod.eu.org/")
+>
 >* **地址**：[**随机必应背景图片获取**](https://tuapi.eees.cc/api.php?category=fengjing&type=302 "https://tuapi.eees.cc/api.php?category=fengjing&type=302")
+>
 >* **地址**：[**随机渐变背景图片获取**](http://www.kf666888.cn/api/tvbox/img "http://www.kf666888.cn/api/tvbox/img")
+>
 >* **地址**：[**https://picsum.photos/宽(例：1920)/高(例：1080)/?blur=模糊值(例：5)**](https://picsum.photos/1920/1080/?blur=5 "例子：https://picsum.photos/1920/1080/?blur=5")
 
 ## 𝟬𝟳. 缩短链接网址
