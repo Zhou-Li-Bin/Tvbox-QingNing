@@ -43,6 +43,9 @@
 
 >* **地址**： [**https://link3.cc/qingningshare**](https://link3.cc/qingningshare "防迷路地址发布页")
 
+
+![image](/image/pic05.png)
+
 ## 𝟬𝟰. 想做自己的接口？
 
 >这里只针对没有自己服务器的宝子们，下面是一些常见的开源仓库
