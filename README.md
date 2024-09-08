@@ -155,7 +155,7 @@
 >
 >* **2024/06/25 更新软件：** 当贝桌面清爽版 自用修改清爽版，适合刷机破解替代原厂桌面
 >
->* **2024/08/03 更新软件：** 开心电视助手 便捷安装第三方APK，远程截图，虚拟遥控器，一键去广告，优化系统，支持刷第三方ROM固件
+>* **2024/08/03 更新软件：** 开心电视助手 便捷安装第三方APK，虚拟遥控器，一键去广告，支持刷第三方ROM固件
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=CatBoxs/Cat_tv&type=Date)](https://star-history.com/#CatBoxs/Cat_tv&Date)# What's Tvbox-QingNing# What's Tvbox-QingNing
