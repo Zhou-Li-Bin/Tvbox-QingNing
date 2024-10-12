@@ -193,6 +193,7 @@
 >
 
 
-![微信](/image/微信.png)
+![image](https://s2.loli.net/2024/09/30/1eN3PfQuEDcMOlz.webp)
+
 
 [![Star History Chart](https://api.star-history.com/svg?repos=CatBoxs/Cat_tv&type=Date)](https://star-history.com/#CatBoxs/Cat_tv&Date)# What's Tvbox-QingNing# What's Tvbox-QingNing
