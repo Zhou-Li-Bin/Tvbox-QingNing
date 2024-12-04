@@ -107,8 +107,58 @@
 >* **地址**： [**https://link3.cc/qingningshare**](https://link3.cc/qingningshare "防迷路地址发布页")
 
 ## 𝟬𝟱. 群分享过部分接口
-> 历史分享过的接口，基本都是有效的，反正好用的就第一时间会发群里(｡･∀･)ﾉﾞ
-> http://恒星.net/ZC.json
+> 分享过的接口和直播源，基本都还是有效的，反正测试过，好用的就第一时间会发群里(｡･∀･)ﾉﾞ
+> 
+> * **【多仓】 全网影视：** http://ww.weidonglong.com/ysc50311.json  
+>
+> * **【多仓】 西夏影视：** https://d.kstore.space/download/2912/xx888.json  
+>
+> * **【多仓】 无邪多仓：** https://gitee.com/wxej/wxrj/raw/master/wx.json  
+>
+> * **【电视】 国内频道100个（ipv6&ipv4可用）：** https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u
+>
+> * **【电视】 国内频道85个（ipv6&ipv4可用）：** https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/IPTV.m3u
+>
+> * **【电视】 国际频道50个（ipv4可用）：** https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+>
+> * **【广播】 中外/网络广播电台100个（ipv4可用）：** https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Radio.m3u
+>
+> * **【成人】 营养快线10瓶，低调使用（ipv4可用）：** https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Adult.m3u
+>
+> * **【多仓】 天微：** https://qixing.myhkw.com/DC.txt  
+>
+> * **【多仓】 挺好分享：** http://ztha.top/TVBox/FLCK.json  
+>
+> * **【多仓】 业余打发：** https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json  
+>
+> * **【多仓】 蓝色影视：** https://raw.gitcode.com/yydg/ggdx/raw/main/Xboxb.json  
+>
+> * **【多仓】 宝盒：** http://mzjk.top/DC  
+>
+> * **【多仓】 天天|秒播：** http://tv.laohu.cool/tvbox.json  
+>
+> * **【单仓】 电视盒子集：** https://chuanshuo.77blog.cn/dc.json  
+>
+> * **【单仓】 码点小干货：** http://120.79.4.185/dc.json  
+>
+> * **【多仓】 飞哥传奇线路：** https://chuanshuo.77blog.cn/dc.json
+>
+> * **【单仓】 巧记：** http://cdn.qiaoji8.com/tvbox.json
+>
+> * **【单仓】 备用：** http://pandown.pro/tvbox/tvbox.json
+>
+> * **【单仓】 dxawi：** https://dxawi.github.io/0/0.json
+>
+> * **【单仓】 香雅情：** https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
+>
+> * **【单仓】 南风：** https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json
+>
+> * **【单仓】 龙伊：** https://龙伊.top
+>
+> * **【单仓】 刘备：** https://raw.liucn.cc/box/m.json
+
+
+
 
 ## 𝟬𝟲. 想做自己的接口？
 
