@@ -129,6 +129,12 @@
 >
 > * **【多仓】 挺好分享：** http://ztha.top/TVBox/FLCK.json  
 >
+> * **【单仓】 饭太硬：** http://www.饭太硬.com/tv
+>
+> * **【单仓】 肥猫新接口：** http://肥猫.com/
+>
+> * **【备用】 肥猫原接口（可能加载较慢）：** http://肥猫.live
+>
 > * **【多仓】 业余打发：** https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json  
 >
 > * **【多仓】 蓝色影视：** https://raw.gitcode.com/yydg/ggdx/raw/main/Xboxb.json  
@@ -156,9 +162,128 @@
 > * **【单仓】 龙伊：** https://龙伊.top
 >
 > * **【单仓】 刘备：** https://raw.liucn.cc/box/m.json
+>
+> * **【备用】 肥猫接口禁止贩卖：** http://我不是.肥猫.live/接口禁止贩卖
+>
+> * **【单仓】 荷城茶秀：** http://rihou.cc:88/荷城茶秀
+>
+> * **【单仓】 iitvba：** http://tt.iitvba.com/vip/tv.json
+>
+> * **【单仓】 星辰：** http://8.210.232.168/xc.json
+>
+> * **【单仓】 茄子库线路：** http://tv.奥利给.top
+>
+> * **【单仓】 运输车：** https://weixine.net/ysc.json
+>
+> * **【单仓】 小盒子：** http://xhztv.top/xhz
+>
+> * **【单仓】 4k接口：** http://xhztv.top/4k.json
+>
+> * **【备用】 摸鱼4k：** http://我不是.摸鱼儿.top
+>
+> * **【单仓】 爱TV吧最新自营接口：** https://hub.gitmirror.com/https://raw.githubusercontent.com/txtvv/txtv/main/tvbox/0326.json
+>
+> * **【单仓】 自营接口2：** https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/tvbox/0326.json
+>
+> * **【单仓】 云星日记：** http://itvbox.cc/云星日记
+>
+> * **【单仓】 巧记：** http://cdn.qiaoji8.com/tvbox.json
+>
+> * **【单仓】 失眠的夜：** http://清清.摸鱼儿.top
+>
+> * **【单仓】 俊佬：** http://home.jundie.top:81/top98.json
+>
+> * **【单仓】 饭太硬：** http://www.饭太硬.com/tv/
+>
+> * **【单仓】 菜妮丝：** https://tv.xn--yhqu5zs87a.top
+>
+> * **【单仓】 D佬大：** https://download.kstore.space/download/2883/nzk/nzk0722.json
+>
+> * **【单仓】 一十锦：** http://jin.锦哥哥.love
+>
+> * **【单仓】 动漫城：** https://www.yingm.cc/dm/dm.json
+>
+> * **【单仓】 喵影视：** http://meowtv.cn/tv
+>
+> * **【单仓】 肥猫：** http://肥猫.com/
+>
+> * **【单仓】 吾爱：** http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0
+>
+> * **【单仓】 小米：** http://www.mpanso.com/小米/DEMO.json
+>
+> * **【单仓】 恒星：** http://yuhuahx.com/育华学堂/斧头帮.php
+>
+> * **【单仓】 O K：** http://ok321.top/ok
+>
+> * **【单仓】 神仙：** http://pt.sxtv.top:66/sx.json
+>
+> * **【单仓】 俊佬：** http://home.jundie.top:81/top98.json
+>
+> * **【单仓】 短剧：** http://74.120.175.78/JK/XYQTVBox/dj.json
+>
+> * **【单仓】 万达：** https://www.macms.pro/box/3.json
 
+> * **【单仓】 南风：** https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json
 
+> * **【单仓】 X影：** https://gitlab.com/mfkdy/vip/-/raw/main/Lite.json
 
+> * **【单仓】 二小：** http://tvbox.xn--4kq62z5rby2qupq9ub.top
+>
+> * **【单仓】 开心：** http://kxrj.site:55/天天开心
+>
+> * **【单仓】 摸鱼：** http://我不是.摸鱼儿.com
+>
+> * **【单仓】 东辰：** https://gitee.com/dongchenliu/liu/raw/master/yb.json
+>
+> * **【单仓】 心魔：** https://ghproxy.net/https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json
+>
+> * **【单仓】 小马：** https://szyyds.cn/tv/x.json
+>
+> * **【单仓】 业余：** https://yydf.540734621.xyz/QQ/yydf2024.json
+>
+> * **【单仓】 飘零：** https://100km.top/0
+>
+> * **【单仓】 星辰：** https://fmbox.cc
+>
+> * **【单仓】 龙伊：** https://龙伊.top
+>
+> * **【单仓】 传说：** https://chuanshuo.77blog.cn/tv.json
+>
+> * **【单仓】 宝盒：** http://ygbh.live/box.php
+>
+> * **【单仓】 秒播：** http://miao.qoo.qoo.us.kg/
+>
+> * **【单仓】 春莹：** https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master
+>
+> * **【单仓】 黄金：** https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json
+>
+> * **【单仓】 道长：** https://gitlab.com/duomv/dzhipy/-/raw/main/index.json
+>
+> * **【单仓】 网盘：** https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Dx.json
+>
+> * **【单仓】 各种网盘：** https://gitdl.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json
+>
+> * **【单仓】 PizazzGY：** https://github.moeyy.xyz/https://github.com/PizazzGY/TVBox/blob/main/api.json
+>
+> * **【备用】 PiGY备用：** https://raw.gitmirror.com/PizazzGY/TVBox/main/api.json
+>
+> * **【单仓】 影视资源：** http://bp.tvbox.cam
+>
+> * **【备用】 影视备用：** https://d.kstore.space/download/6474/tvbox/api.json
+>
+> * **【单仓】 儿童：** https://xn--2qg-mf3g9f.v.nxog.top/m/111.php
+>
+> * **【单仓】 喵影视：** http://meowtv.top/tv
+>
+> * **【单仓】 骚零：** https://100km.top/0
+>
+> * **【单仓】 道长：** https://pastebin.com/raw/5NHaxyGR
+>
+> * **【单仓】 小马影视：** https://szyyds.cn/tv/x.json
+>
+> * **【单仓】 dxawi0：** https://xhdwc.tk/0
+>
+> * **【单仓】 刘备：** https://raw.liucn.cc/box/m.json
 
 ## 𝟬𝟲. 想做自己的接口？
 
