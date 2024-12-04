@@ -228,11 +228,11 @@
 > * **【单仓】 短剧：** http://74.120.175.78/JK/XYQTVBox/dj.json
 >
 > * **【单仓】 万达：** https://www.macms.pro/box/3.json
-
+>
 > * **【单仓】 南风：** https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json
-
+>
 > * **【单仓】 X影：** https://gitlab.com/mfkdy/vip/-/raw/main/Lite.json
-
+>
 > * **【单仓】 二小：** http://tvbox.xn--4kq62z5rby2qupq9ub.top
 >
 > * **【单仓】 开心：** http://kxrj.site:55/天天开心
