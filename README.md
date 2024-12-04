@@ -102,13 +102,9 @@
 
 >* **地址**： [**https://ocndh5bpm3d7.feishu.cn/wiki/Je4dw4E4TidwOSkpXw6chyg1nBh**](https://ocndh5bpm3d7.feishu.cn/wiki/Je4dw4E4TidwOSkpXw6chyg1nBh "接口分享地址持续更新")
 
-![image](/image/pic01.png)
-
 ## 𝟬𝟰. 防迷路地址发布页
 
 >* **地址**： [**https://link3.cc/qingningshare**](https://link3.cc/qingningshare "防迷路地址发布页")
-
-![image](/image/pic05.png)
 
 ## 𝟬𝟱. 群分享过部分接口
 > 历史分享过的接口，基本都是有效的，反正好用的就第一时间会发群里(｡･∀･)ﾉﾞ
