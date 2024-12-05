@@ -105,7 +105,7 @@
 ## 𝟬𝟯. 接口分享合集地址
 
 >由于Github国内访问基本要魔法打开，所以软件和接口的文档使用国内网站分享
->* **地址**： [**https://flowus.cn/qingningshare/share/213a1749-8ecd-456d-914b-5a9836109c9e**](https://flowus.cn/qingningshare/share/213a1749-8ecd-456d-914b-5a9836109c9e?code=DHJXCY "接口和软件分享地址（持续更新中…）")
+>* **地址**： [**https://flowus.cn/qingningshare/share/213a1749-8ecd-456d-914b-5a9836109c9e?code=DHJXCY**](https://flowus.cn/qingningshare/share/213a1749-8ecd-456d-914b-5a9836109c9e?code=DHJXCY "接口和软件分享地址（持续更新中…）")
 >
 
 ## 𝟬𝟰. 防迷路地址发布页
