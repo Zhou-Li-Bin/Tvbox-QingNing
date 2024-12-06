@@ -118,7 +118,108 @@
 
 ## 𝟬𝟱. 群分享过部分接口
 > 分享过的接口和直播源，基本都还是有效的，反正测试过，好用的就第一时间会发群里(｡･∀･)ﾉﾞ
-> 
+>
+> * **【单仓】 星辰：** https://fmbox.cc/  
+>
+> * **【单仓】 分享：**  
+>   https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json  
+>
+> * **【单仓】 小屋：**  
+>   https://git.acwing.com/shhentu/lzxw/-/raw/main/Monster.json  
+>
+> * **【单仓】 影探：**  
+>   https://ghp.ci/https://raw.githubusercontent.com/vbskycn/tvbox/a244f6f5c08565a9a0e319d6a3cc2e919d05d893/MY%E6%8E%A2%E6%8E%A2.txt  
+>
+> * **【单仓】 宝盒：**  
+>   http://mzjk.top/禁止贩卖  
+>
+> * **【单仓】 肥猫：**  
+>   http://肥猫.com  
+>
+> * **【单仓】 饭太硬：**  
+>   http://www.饭太硬.com/tv  
+>
+> * **【单仓】 小米：**  
+>   https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json  
+>
+> * **【单仓】 OK：**  
+>   http://ok321.top/ok  
+>
+> * **【单仓】 王小二：**  
+>   http://tvbox.王二小放牛娃.top  
+>
+> * **【单仓】 摸鱼：**  
+>   http://我不是.摸鱼儿.com  
+>
+> * **【单仓】 开心：**  
+>   http://kxrj.site:55/天天开心  
+>
+> * **【单仓】 讴歌：**  
+>   https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh  
+>
+> * **【单仓】 青龙：**  
+>   https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json  
+>
+> * **【单仓】 恒星：**  
+>   http://yuhuahx.com/%E8%82%B2%E5%8D%8E%E5%AD%A6%E5%A0%82/%E6%96%A7%E5%A4%B4%E5%B8%AE.php  
+>
+> * **【单仓】 巧记：**  
+>   http://cdn.qiaoji8.com/tvbox.json  
+>
+> * **【单仓】 喵影视：**  
+>   http://meowtv.cn/tv  
+>
+> * **【单仓】 挺好：**  
+>   https://ztha.top/TVBox/thdjk.json  
+>
+> * **【单仓】 驸马：**  
+>   http://fmys.top/fmys.json  
+>
+> * **【单仓】 龙一：**  
+>   https://xn--qoqw77q.top/  
+>
+> * **【单仓】 传说：**  
+>   https://chuanshuo.77blog.cn/tv.json  
+>
+> * **【单仓】 宝盒：**  
+>   https://ghp.ci/raw.githubusercontent.com/guot55/YGBH/main/vip2.json  
+>
+> * **【单仓】 西夏：**  
+>   https://2912.kstore.space/0506.json  
+>
+> * **【单仓】 蓝天：**  
+>   https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json  
+>
+> * **【单仓】 非凡：**  
+>   https://g.3344550.xyz/https://raw.githubusercontent.com/jigedos/1024/master/jsm.json  
+>
+> * **【单仓】 海冰：**  
+>   https://git.acwing.com/cisenyuan/kdsb/-/raw/main/%E6%B5%B7%E5%85%B5%E5%BD%B1%E8%A7%86.json  
+>
+> * **【单仓】 花生：**  
+>   https://git.acwing.com/abai/tv/-/raw/main/huas.json  
+>
+> * **【单仓】 刘伟：**  
+>   https://git.acwing.com/lw0704/66/-/raw/master/jjzx.json  
+>
+> * **【单仓】 超级：**  
+>   https://git.acwing.com/203BDXC/tvboxt/-/raw/main/CJ.json  
+>
+> * **【单仓】 剪影：**  
+>   https://git.acwing.com/lkq0379/zjys/-/raw/main/zjys.json  
+>
+> * **【单仓】 金鹰：**  
+>   http://550.3vcn.work/wdjyys.json  
+>
+> * **【单仓】 英雄：**  
+>   https://cdn.githubraw.com/xuexuguang/tvbox_spider/main/tv/kk/heroaku_dtes.json  
+>
+> * **【单仓】 短剧：**  
+>   http://74.120.175.78/JK/XYQTVBox/dj.json  
+>
+> * **【单仓】 白龙：**  
+>   http://124.71.189.194/a.json
+>   
 > * **【多仓】 全网影视：** http://ww.weidonglong.com/ysc50311.json  
 >
 > * **【多仓】 西夏影视：** https://d.kstore.space/download/2912/xx888.json  
