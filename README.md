@@ -534,7 +534,34 @@ v
 >  * **【单仓】 巧技巧技：**
 > http://pandown.pro/tvbox/tvbox.json
 >
-> ……
+> * ……
+>
+> * **时间有限，没有测试过**
+> 
+> * http://www.fish2018.us.kg/p/jsm.json
+>
+> * https://tv.蜗牛.top/svip
+>
+> * https://box.iqinu.com/
+>
+> * http://fmys.top/fmys.json
+>
+> * http://www.meowtv.top
+>
+> * https://www.cwss.xyz/刺猬线路禁止贩卖
+>
+> * https://www.rjjjh.com/xzbgg.json
+>
+> * https://github.moeyy.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视.bmp
+>
+> * https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json
+>
+> * https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/movies.json
+>
+> * https://github.moeyy.xyz/https://raw.githubusercontent.com/kunkka1986/my.img/main/frjbox.json
+>
+> * ……
+>
 
 ## 𝟬𝟲. 想做自己的接口？
 
