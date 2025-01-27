@@ -662,6 +662,5 @@ v
 
 ![image](https://s2.loli.net/2024/09/30/1eN3PfQuEDcMOlz.webp)
 
-## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Zhou-Li-Bin/Tvbox-QingNing&type=Date)](https://star-history.com/#Zhou-Li-Bin/Tvbox-QingNing&Date)
