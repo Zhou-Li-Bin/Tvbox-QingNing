@@ -6,6 +6,7 @@
 [![公众号](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E9%9D%92%E6%9F%A0%E8%BD%AF%E4%BB%B6%E9%A6%86-71f9fe?logo=WeChat)](https://mp.weixin.qq.com/s/FwqI_w2geWE4aOqKAILfhQ)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Zhou-Li-Bin/Tvbox-QingNing)](https://github.com/Zhou-Li-Bin/Tvbox-QingNing/pulls)
 [![GitHub Pull Requests](https://img.shields.io/github/stars/Zhou-Li-Bin/Tvbox-QingNing?logo=Undertale)](https://github.com/Zhou-Li-Bin/Tvbox-QingNing/stargazers)
+
 [![HitCount](https://views.whatilearened.today/views/github/Zhou-Li-Bin/Tvbox-QingNing.svg)](https://github.com/Zhou-Li-Bin/Tvbox-QingNing)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=4000&pause=1000&color=140900&center=true&vCenter=true&width=550&height=30&lines=%E2%AD%90%E4%BC%98%E8%B4%A8%E6%8E%A5%E5%8F%A3%C2%B7%E7%9B%B4%E6%92%AD%E6%BA%90%C2%B7%E7%9B%B8%E5%85%B3%E8%BD%AF%E4%BB%B6%E5%92%8C%E7%BD%91%E7%AB%99%E7%9A%84%E6%90%9C%E9%9B%86%E5%88%86%E4%BA%AB%E2%AD%90)](https://git.io/typing-svg)
@@ -17,6 +18,8 @@
 
 ## 𝟬𝟭. 更新记录
 
+>* **2025/04/13 更新软件：** 悠兔电视
+>  
 >* **2025/04/12 更新接口：** 本地仓【推荐老手】，内含饭太硬，肥猫，摸鱼儿，南风，王二小等常见本地仓，本地包的优点是加载源相对比较快，可以避免在线接口服务器出故障或被屏蔽，导致无法加载的问题，但资源播放效果是一样的
 >
 >* **2025/04/12 更新软件：** 金虎影院 内置流畅接口线路，支持直播+点播+影视+追剧（咪咕+斗鱼+虎牙轮播+央视+卫视+地方体育）
@@ -116,7 +119,7 @@
 <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="100%"  height="2">
 
 ## 𝟬𝟮. 写在前面
->🍀 本项目致力于优秀的接口 · 优质稳定的直播源 · 相关好用软件和网站的搜集整理。以上全部免费分享给各位交流学习，如果各位有什么好用的也可以贡献一下
+>🍀 本项目致力于优秀的接口 · 优质稳定的直播源 · 相关好用软件和网站的搜集整理。以上全部免费分享给各位交流学习，如果各位有什么好用的也可以贡献一下，🚫严禁倒卖接口软件等！！！
 >
 >🌸 在上学，本文档不定时更新，文档分享的大部分接口和软件都经过本人亲自测试，首发更新服务群中粉丝
 >
