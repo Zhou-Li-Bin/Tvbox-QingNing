@@ -146,7 +146,7 @@
 ## 𝟬𝟯. 接口分享合集地址
 
 >由于Github国内访问基本要魔法打开，为了后续方便，所以软件和接口的文档使用国内网站分享，直接收藏网址就行
->* **地址**： [**https://ocndh5bpm3d7.feishu.cn/wiki/Je4dw4E4TidwOSkpXw6chyg1nBh?from=from_copylink**](https://ocndh5bpm3d7.feishu.cn/wiki/Je4dw4E4TidwOSkpXw6chyg1nBh?from=from_copylink "接口和软件分享地址（持续更新中…）")
+>* **地址**： [**https://home.132130.xyz/**](https://home.132130.xyz/ "接口和软件分享地址（持续更新中…）")
 >
 
 ## 𝟬𝟰. 防迷路地址发布页
