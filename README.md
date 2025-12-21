@@ -3,7 +3,6 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Auth](https://img.shields.io/badge/Auth-zhoulibin-ff69b4)](https://github.com/Zhou-Li-Bin)
-[![公众号](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E9%9D%92%E6%9F%A0%E8%BD%AF%E4%BB%B6%E9%A6%86-71f9fe?logo=WeChat)](https://mp.weixin.qq.com/s/FwqI_w2geWE4aOqKAILfhQ)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Zhou-Li-Bin/Tvbox-QingNing)](https://github.com/Zhou-Li-Bin/Tvbox-QingNing/pulls)
 [![GitHub Pull Requests](https://img.shields.io/github/stars/Zhou-Li-Bin/Tvbox-QingNing?logo=Undertale)](https://github.com/Zhou-Li-Bin/Tvbox-QingNing/stargazers)
 
