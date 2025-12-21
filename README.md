@@ -178,7 +178,7 @@
 ## 𝟬𝟰. 防迷路地址发布页
 
 >
->* **地址**： [**https://link3.cc/qingningshare**](https://link3.cc/qingningshare "防迷路地址发布页")
+>* **地址**：[**https://home.132130.xyz/**](https://home.132130.xyz/ "防迷路地址发布页")
 >
 
 ## 𝟬𝟱. 其他接口分享地址
