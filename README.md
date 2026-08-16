@@ -802,4 +802,4 @@ v
 >
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Zhou-Li-Bin/Tvbox-QingNing&type=Date)](https://star-history.com/#Zhou-Li-Bin/Tvbox-QingNing&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=Zhou-Li-Bin/Tvbox-QingNing&type=Date)](https://star-history.dera.page/#Zhou-Li-Bin/Tvbox-QingNing&Date)
