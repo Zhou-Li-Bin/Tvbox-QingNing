@@ -42,12 +42,12 @@
 
 🍀 链接失效，网站崩溃，资源补档，投稿等问题欢迎反馈
 
-<br>
+<img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="100%"  height="2">
 
 ## 𝟬𝟮. 资源获取
 
 > 所有资源和介绍都在网站：[132130.xyz](132130.xyz)
-
+>
 > **网站QQ交流群：680226578**
 
 <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="100%"  height="2">
